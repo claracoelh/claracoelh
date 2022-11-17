@@ -1,7 +1,10 @@
-### Hello! Eu sou Clara Coelho👋 
+### Olá! Eu sou Clara Coelho👋 
 
-- 🌱 No momento estou aprimorando minhas habilidades no desenvolvimento de RestAPI usando SpringBoot
 - 😄 Pronomes: Ela/Dela
+- 🔍 A procura de oportunidades na área de tecnologia
+- 📖 Aprendendo Python e Java (e o que mais essa área me mostrar 😊)
+- 🌱 No momento estou aprimorando minhas habilidades no desenvolvimento de RestAPI usando SpringBoot
+
 
 <div align="center">
   <a href="https://github.com/claracoelh">
